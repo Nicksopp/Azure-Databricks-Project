@@ -9,6 +9,8 @@ The goal of this project is to replicate **real-world data engineering workflows
 ---
 <img width="869" height="300" alt="1" src="https://github.com/user-attachments/assets/f12f2afc-3dd8-4a7e-b237-ee222b901119" />
 <img width="942" height="368" alt="Capture" src="https://github.com/user-attachments/assets/71f0cf6e-7539-4cb3-aed4-409b162b847e" />
+<img width="1536" height="1024" alt="ChatGPT Image Jan 21, 2026, 10_34_10 AM" src="https://github.com/user-attachments/assets/5b9797b6-8b76-472d-9e52-e43c4da16478" />
+
 <img width="803" height="401" alt="3" src="https://github.com/user-attachments/assets/a6518f7e-1419-4a8f-beee-a949e457f0df" />
 <img width="957" height="423" alt="2" src="https://github.com/user-attachments/assets/558089c3-ffad-478f-a165-e58da325d879" />
 
